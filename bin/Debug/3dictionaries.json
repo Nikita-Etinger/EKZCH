@@ -1,0 +1,9 @@
+
+{
+  "rueng": {
+    "собака": ["dog", "pooch", "canine"],
+    "кошка": ["cat", "kitty", "feline"]
+}
+ "engru": {
+    "dog": ["собака", "щенок"],
+}

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34316.72
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ekz", "ekz.csproj", "{718D6DF4-366B-43ED-826B-4B55C5DDF9AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{718D6DF4-366B-43ED-826B-4B55C5DDF9AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{718D6DF4-366B-43ED-826B-4B55C5DDF9AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{718D6DF4-366B-43ED-826B-4B55C5DDF9AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{718D6DF4-366B-43ED-826B-4B55C5DDF9AD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3E7BD9FB-F83C-436C-8426-979D69780232}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,13 @@
+C:\Users\ADMIN\Desktop\Учебус\Разработчик\C++\ekz\bin\Debug\ekz.exe.config
+C:\Users\ADMIN\Desktop\Учебус\Разработчик\C++\ekz\bin\Debug\ekz.exe
+C:\Users\ADMIN\Desktop\Учебус\Разработчик\C++\ekz\bin\Debug\ekz.pdb
+C:\Users\ADMIN\Desktop\Учебус\Разработчик\C++\ekz\obj\Debug\ekz.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\Учебус\Разработчик\C++\ekz\obj\Debug\ekz.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\Учебус\Разработчик\C++\ekz\obj\Debug\ekz.exe
+C:\Users\ADMIN\Desktop\Учебус\Разработчик\C++\ekz\obj\Debug\ekz.pdb
+C:\Users\ADMIN\Desktop\Учебус\Разработчик\C++\ekz\bin\Debug\JsonConverter.Abstractions.dll
+C:\Users\ADMIN\Desktop\Учебус\Разработчик\C++\ekz\bin\Debug\JsonConverter.Newtonsoft.Json.dll
+C:\Users\ADMIN\Desktop\Учебус\Разработчик\C++\ekz\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ADMIN\Desktop\Учебус\Разработчик\C++\ekz\bin\Debug\Stef.Validation.dll
+C:\Users\ADMIN\Desktop\Учебус\Разработчик\C++\ekz\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ADMIN\Desktop\Учебус\Разработчик\C++\ekz\obj\Debug\ekz.csproj.CopyComplete
